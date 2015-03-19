@@ -9,9 +9,11 @@ namespace Certificacao70_480.Capitulo2
     {
         static void Main(string[] args)
         {
-            Executar(new ExemploSwitchCase());
+            Executar(new ExemploIf());
+            //Executar(new ExemploSwitchCase());
+            //Executar(new ExemploFor());
+            //Executar(new ExemploWhile());
 
-            //testes
             Console.ReadKey();
         }
 

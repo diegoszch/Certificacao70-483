@@ -1,0 +1,4 @@
+C:\diego\github\Certificacao70-483\Certificacao70-480.Capitulo2\bin\Debug\Certificacao70-480.Capitulo2.exe
+C:\diego\github\Certificacao70-483\Certificacao70-480.Capitulo2\bin\Debug\Certificacao70-480.Capitulo2.pdb
+C:\diego\github\Certificacao70-483\Certificacao70-480.Capitulo2\obj\x86\Debug\Certificacao70-480.Capitulo2.exe
+C:\diego\github\Certificacao70-483\Certificacao70-480.Capitulo2\obj\x86\Debug\Certificacao70-480.Capitulo2.pdb

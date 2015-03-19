@@ -1,0 +1,21 @@
+﻿#define BLOCO1
+#undef BLOCO1
+
+#define BLOCO2
+#undef BLOCO2
+
+#define BLOCO3
+#undef BLOCO3
+
+
+#if BLOCO1
+            Console.WriteLine("BLOCO1");
+#endif
+
+#if BLOCO2
+            Console.WriteLine("BLOCO2");
+#endif
+
+#if BLOCO3
+            Console.WriteLine("BLOCO3");
+#endif

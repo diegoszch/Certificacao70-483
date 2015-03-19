@@ -43,10 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Executor.cs" />
+    <Compile Include="Exemplo.cs" />
+    <Compile Include="ExemploFor.cs" />
+    <Compile Include="ExemploIf.cs" />
     <Compile Include="ExemploSwitchCase.cs" />
+    <Compile Include="ExemploWhile.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="util.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
