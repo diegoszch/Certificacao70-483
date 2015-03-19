@@ -11,7 +11,7 @@ namespace Certificacao70_480.Capitulo2
         {
             Executar(new ExemploSwitchCase());
 
-
+            //testes
             Console.ReadKey();
         }
 
